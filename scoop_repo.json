@@ -3,26 +3,27 @@
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
     "last_updated": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "total_packages": 1
+    "total_packages": 2
   },
-
   "PackageList": {
     "package__1": {
-      "name": "Generic",
-      "desc_shrt": "d_shrt",
-      "desc_long": "d_loong",
+      "name": "TestApp1",
+      "desc_shrt": "This application is a test app",
+      "desc_long": "This application is a test app to test the functionality of the newly created scoop repo",
       "dl_setupLoc": "https://x.com/setup.yml",
-      "opt_img1": "https://x.com/img.png",
-      "opt_img2": "https://x.com/img.png",
-      "opt_img3": "https://x.com/img.png",
-      "version": "1.0.0",
-      "rel_type": "Beta",
-      "date_added": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-      "cpu_req": "3GHz",
-      "ram_req": "8GB",
-      "space_req": "500MB",
-      "bak_req": "1.40.1",
-      "icon": "https://x.com/icon.png"
+      "version": "1.0",
+      "rel_type": "Stable",
+      "date_added": "2021-08-15T22:28:57.112Z"
+    },
+    "package__2": {
+      "name": "TestApp1",
+      "desc_shrt": "This application is a test app",
+      "desc_long": "This application is a test app to test the functionality of the newly created scoop repo",
+      "dl_setupLoc": "https://x.com/setup.yml",
+      "version": "1.0",
+      "rel_type": "Stable",
+      "date_added": "2021-08-15T22:29:26.276Z",
+      "icon": "https://i.ibb.co/YBFNp8G/d3facf1e834d.png"
     }
   }
 }
