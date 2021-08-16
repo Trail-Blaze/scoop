@@ -3,7 +3,7 @@
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
     "last_updated": "2021-08-16T23:11:19.961Z",
-    "total_packages": 9
+    "total_packages": 1
   },
   "PackageList": {
     "package__1": {
@@ -16,94 +16,6 @@
       "date_added": "2021-08-16T21:11:52.569Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "pub": "AlexDev404"
-    },
-    "package__2": {
-      "name": "UserApp",
-      "desc_shrt": "Description (short)",
-      "desc_long": "Description (LONG)",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T22:03:53.940Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserApp/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__3": {
-      "name": "UserApp1",
-      "desc_shrt": "User App Test #2",
-      "desc_long": "User App Test",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T22:12:53.744Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserApp1/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__4": {
-      "name": "UserAPP2",
-      "desc_shrt": "User App Test #3",
-      "desc_long": "Test User App",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T22:16:25.791Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserAPP2/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__5": {
-      "name": "UserApp3",
-      "desc_shrt": "User App Test #3",
-      "desc_long": "Testing User App [ TEST #3 ]",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T22:20:15.109Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserApp3/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__6": {
-      "name": "UserApp4",
-      "desc_shrt": "User App Test #4",
-      "desc_long": "Test App",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T22:23:12.753Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserApp4/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__7": {
-      "name": "UserApp5",
-      "desc_shrt": "Probably the final testing of the User App",
-      "desc_long": "Pigs can fly!",
-      "version": "1.0",
-      "rel_type": "Beta",
-      "date_added": "2021-08-16T23:04:09.508Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserApp5/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__8": {
-      "name": "UserApp6",
-      "desc_shrt": "Test",
-      "desc_long": "Test",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T23:07:58.875Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserApp6/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__9": {
-      "name": "UserApp7",
-      "desc_shrt": "Test",
-      "desc_long": "Test",
-      "version": "1",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T23:11:19.961Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/UserApp7/setup.yml",
-      "pub": "XMLTest200"
     }
   }
 }
