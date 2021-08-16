@@ -3,7 +3,7 @@
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
     "last_updated": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "total_packages": 2
+    "total_packages": 3
   },
   "PackageList": {
     "package__1": {
@@ -16,13 +16,22 @@
       "date_added": "2021-08-15T22:28:57.112Z"
     },
     "package__2": {
-      "name": "TestApp1",
-      "desc_shrt": "Test App ",
-      "desc_long": "Test",
+      "name": "A Real App",
+      "desc_shrt": "AGFdssgsa",
+      "desc_long": "This has worked!",
       "dl_setupLoc": "https://x.com/setup.yml",
       "version": "1.0",
-      "rel_type": "Beta",
-      "date_added": "2021-08-16T19:21:06.247Z",
+      "rel_type": "Stable",
+      "date_added": "2021-08-16T19:23:09.444Z"
+    },
+    "package__3": {
+      "name": "A Real App",
+      "desc_shrt": "AGFdssgsa",
+      "desc_long": "This has worked!",
+      "dl_setupLoc": "https://x.com/setup.yml",
+      "version": "1.0",
+      "rel_type": "Stable",
+      "date_added": "2021-08-16T19:23:19.979Z",
       "icon": "https://i.ibb.co/YBFNp8G/d3facf1e834d.png"
     }
   }
