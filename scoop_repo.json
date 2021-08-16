@@ -2,18 +2,18 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-16T21:05:47.275Z",
+    "last_updated": "2021-08-16T21:11:52.569Z",
     "total_packages": 1
   },
   "PackageList": {
     "package__1": {
       "name": "TestApp",
-      "desc_shrt": "This application is a test app",
-      "desc_long": "This application is a test app to test the functionality of the newly created scoop repo",
+      "desc_shrt": "Test",
+      "desc_long": "Test",
       "dl_setupLoc": "https://x.com/setup.yml",
       "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T20:56:29.062Z",
+      "rel_type": "Stable",
+      "date_added": "2021-08-16T21:11:52.569Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "pub": "AlexDev404"
     }
