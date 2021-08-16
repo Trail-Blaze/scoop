@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-16T23:49:29.434Z",
-    "total_packages": 3
+    "last_updated": "2021-08-16T23:52:17.696Z",
+    "total_packages": 4
   },
   "PackageList": {
     "package__1": {
@@ -37,6 +37,17 @@
       "date_added": "2021-08-16T23:49:29.434Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/I/ICEBERG/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__4": {
+      "name": "Test",
+      "desc_shrt": "Test",
+      "desc_long": "Test",
+      "version": "1.0",
+      "rel_type": "Stable",
+      "date_added": "2021-08-16T23:52:17.696Z",
+      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST/setup.yml",
       "pub": "XMLTest200"
     }
   }
