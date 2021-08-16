@@ -2,7 +2,7 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
+    "last_updated": "2021-08-16T20:56:29.062Z",
     "total_packages": 1
   },
   "PackageList": {
@@ -13,8 +13,9 @@
       "dl_setupLoc": "https://x.com/setup.yml",
       "version": "1.0",
       "rel_type": "Alpha",
-      "date_added": "2021-08-16T20:36:37.222Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png"
+      "date_added": "2021-08-16T20:56:29.062Z",
+      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
+      "pub": "AlexDev404"
     }
   }
 }
