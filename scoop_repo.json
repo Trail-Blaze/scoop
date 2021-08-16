@@ -3,7 +3,7 @@
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
     "last_updated": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "total_packages": 3
+    "total_packages": 2
   },
   "PackageList": {
     "package__1": {
@@ -17,22 +17,12 @@
     },
     "package__2": {
       "name": "TestApp1",
-      "desc_shrt": "This is a test application",
-      "desc_long": "This is a test application to test the functionality of the newly created scoop repo",
+      "desc_shrt": "Test App ",
+      "desc_long": "Test",
       "dl_setupLoc": "https://x.com/setup.yml",
       "version": "1.0",
       "rel_type": "Beta",
-      "date_added": "2021-08-16T18:34:21.142Z",
-      "icon": "https://i.ibb.co/YBFNp8G/d3facf1e834d.png"
-    },
-    "package__3": {
-      "name": "TestApp-1",
-      "desc_shrt": "Test Application",
-      "desc_long": "This is a test application created to test the functionality of the newly created scoop repo",
-      "dl_setupLoc": "https://x.com/setup.yml",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T18:37:35.263Z",
+      "date_added": "2021-08-16T19:21:06.247Z",
       "icon": "https://i.ibb.co/YBFNp8G/d3facf1e834d.png"
     }
   }
