@@ -3,7 +3,7 @@
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
     "last_updated": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "total_packages": 4
+    "total_packages": 2
   },
   "PackageList": {
     "package__1": {
@@ -16,32 +16,14 @@
       "date_added": "2021-08-15T22:28:57.112Z"
     },
     "package__2": {
-      "name": "A Real App",
-      "desc_shrt": "AGFdssgsa",
-      "desc_long": "This has worked!",
+      "name": "AnotherApp",
+      "desc_shrt": "Test App",
+      "desc_long": "Test App",
       "dl_setupLoc": "https://x.com/setup.yml",
       "version": "1.0",
-      "rel_type": "Stable",
-      "date_added": "2021-08-16T19:23:09.444Z"
-    },
-    "package__3": {
-      "name": "Anomaly",
-      "desc_shrt": "A Test App",
-      "desc_long": "This is just a test app",
-      "dl_setupLoc": "https://x.com/setup.yml",
-      "version": "1.0",
-      "rel_type": "Stable",
-      "date_added": "2021-08-16T19:29:30.614Z"
-    },
-    "package__4": {
-      "name": "Anomaly",
-      "desc_shrt": "A Test App",
-      "desc_long": "This is just a test app",
-      "dl_setupLoc": "https://x.com/setup.yml",
-      "version": "1.0",
-      "rel_type": "Stable",
-      "date_added": "2021-08-16T19:29:45.721Z",
-      "icon": "https://i.ibb.co/YBFNp8G/d3facf1e834d.png"
+      "rel_type": "Beta",
+      "date_added": "2021-08-16T19:52:17.544Z",
+      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png"
     }
   }
 }

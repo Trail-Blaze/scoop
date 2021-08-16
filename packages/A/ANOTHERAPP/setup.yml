@@ -1,6 +1,7 @@
 package_name: "Generic"
 package_version: "1.0.0"
 package_location: "https://packages.blazehosted.ml/dynex/generic.dynex"
+publisher_website: "https://example.com"
 works_on: "Dynamite v1.4.3"
 description: "Lorem ipsum Dolor"
 welcome_text: "Welcome to Setup!"
