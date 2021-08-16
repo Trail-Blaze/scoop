@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-16T23:39:21.189Z",
-    "total_packages": 2
+    "last_updated": "2021-08-16T23:49:29.434Z",
+    "total_packages": 3
   },
   "PackageList": {
     "package__1": {
@@ -26,6 +26,17 @@
       "date_added": "2021-08-16T23:39:21.189Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/U/USERAPP/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__3": {
+      "name": "Iceberg",
+      "desc_shrt": "Another testapp",
+      "desc_long": "The dummy Iceberg App has Returned!",
+      "version": "1.0",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-16T23:49:29.434Z",
+      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/I/ICEBERG/setup.yml",
       "pub": "XMLTest200"
     }
   }
