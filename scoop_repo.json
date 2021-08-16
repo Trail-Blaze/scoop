@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-16T23:11:19.961Z",
-    "total_packages": 1
+    "last_updated": "2021-08-16T23:21:43.341Z",
+    "total_packages": 2
   },
   "PackageList": {
     "package__1": {
@@ -16,6 +16,17 @@
       "date_added": "2021-08-16T21:11:52.569Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "pub": "AlexDev404"
+    },
+    "package__2": {
+      "name": "UserApp",
+      "desc_shrt": "User App",
+      "desc_long": "Test",
+      "version": "1.0",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-16T23:21:43.341Z",
+      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/U/USERAPP/setup.yml",
+      "pub": "XMLTest200"
     }
   }
 }
