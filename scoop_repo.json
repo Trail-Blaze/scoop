@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-16T23:52:17.696Z",
-    "total_packages": 4
+    "last_updated": "2021-08-18T22:03:16.505Z",
+    "total_packages": 6
   },
   "PackageList": {
     "package__1": {
@@ -48,6 +48,27 @@
       "date_added": "2021-08-16T23:52:17.696Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__5": {
+      "name": "Test2Go",
+      "desc_shrt": "Test",
+      "desc_long": "Test",
+      "version": "1",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-18T21:47:38.651Z",
+      "icon": "https://i.ibb.co/4VHtQYk/c486f4dd69b8.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST2GO/setup.yml"
+    },
+    "package__6": {
+      "name": "TooMuchTestApps",
+      "desc_shrt": "Test",
+      "desc_long": "Test",
+      "version": "1",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-18T22:03:16.505Z",
+      "icon": "https://i.ibb.co/yRvKw6W/7170bf9ad234.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TOOMUCHTESTAPPS/setup.yml",
       "pub": "XMLTest200"
     }
   }
