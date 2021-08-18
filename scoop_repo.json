@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-18T22:03:16.505Z",
-    "total_packages": 6
+    "last_updated": "2021-08-18T22:14:45.619Z",
+    "total_packages": 7
   },
   "PackageList": {
     "package__1": {
@@ -70,6 +70,17 @@
       "icon": "https://i.ibb.co/yRvKw6W/7170bf9ad234.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TOOMUCHTESTAPPS/setup.yml",
       "pub": "XMLTest200"
+    },
+    "package__7": {
+      "name": "YETAnotherTestPackage",
+      "desc_shrt": "Test",
+      "desc_long": "Test",
+      "version": "1",
+      "rel_type": "Stable",
+      "date_added": "2021-08-18T22:14:45.619Z",
+      "icon": "https://i.ibb.co/yRvKw6W/7170bf9ad234.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/Y/YETANOTHERTESTPACKAGE/setup.yml",
+      "pub": "AlexDev404"
     }
   }
 }
