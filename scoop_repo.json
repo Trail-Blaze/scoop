@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-18T23:16:50.610Z",
-    "total_packages": 8
+    "last_updated": "2021-08-18T23:22:38.609Z",
+    "total_packages": 9
   },
   "PackageList": {
     "package__1": {
@@ -83,14 +83,23 @@
       "pub": "AlexDev404"
     },
     "package__8": {
-      "name": "LastApp",
+      "name": "Test100",
       "desc_shrt": "Test",
       "desc_long": "Test",
       "version": "1",
       "rel_type": "Stable",
-      "date_added": "2021-08-18T23:16:50.611Z",
+      "date_added": "2021-08-18T23:22:30.209Z",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST100/setup.yml"
+    },
+    "package__9": {
+      "name": "Test100",
+      "desc_shrt": "Test",
+      "desc_long": "Test",
+      "version": "1.0",
+      "rel_type": "Stable",
+      "date_added": "2021-08-18T23:22:38.609Z",
       "icon": "https://i.ibb.co/yRvKw6W/7170bf9ad234.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/L/LASTAPP/setup.yml",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST100/setup.yml",
       "pub": "XMLTest200"
     }
   }
