@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-16T23:21:43.341Z",
-    "total_packages": 2
+    "last_updated": "2021-08-20T20:57:20.863Z",
+    "total_packages": 3
   },
   "PackageList": {
     "package__1": {
@@ -26,6 +26,17 @@
       "date_added": "2021-08-16T23:21:43.341Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/U/USERAPP/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__3": {
+      "name": "Reset",
+      "desc_shrt": "Test",
+      "desc_long": "Test",
+      "version": "1",
+      "rel_type": "Stable",
+      "date_added": "2021-08-20T20:57:20.863Z",
+      "icon": "https://i.ibb.co/1d93ycQ/7f5c3ee82805.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/R/RESET/setup.yml",
       "pub": "XMLTest200"
     }
   }
