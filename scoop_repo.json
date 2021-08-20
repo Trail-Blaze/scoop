@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-20T19:15:30.838Z",
-    "total_packages": 4
+    "last_updated": "2021-08-20T19:17:45.594Z",
+    "total_packages": 5
   },
   "PackageList": {
     "package__1": {
@@ -48,6 +48,17 @@
       "date_added": "2021-08-20T19:15:30.838Z",
       "icon": "https://i.ibb.co/1d93ycQ/7f5c3ee82805.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TESTAPP15768/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__5": {
+      "name": "Testq22r53hre",
+      "desc_shrt": "Test",
+      "desc_long": "TEst",
+      "version": "2",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-20T19:17:45.594Z",
+      "icon": "https://i.ibb.co/1d93ycQ/7f5c3ee82805.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TESTQ22R53HRE/setup.yml",
       "pub": "XMLTest200"
     }
   }
