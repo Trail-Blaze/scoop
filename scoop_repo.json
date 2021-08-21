@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-21T21:30:41.016Z",
-    "total_packages": 4
+    "last_updated": "2021-08-21T21:37:26.446Z",
+    "total_packages": 6
   },
   "PackageList": {
     "package__1": {
@@ -46,6 +46,28 @@
       "date_added": "2021-08-21T21:30:41.019Z",
       "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/f/FREDFRED/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__5": {
+      "name": "A Very Cool App",
+      "desc_shrt": "A Really nice app",
+      "desc_long": "Pigs can fly",
+      "version": "1",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-21T21:36:16.430Z",
+      "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/A/A VERY COOL APP/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__6": {
+      "name": "TestApplication",
+      "desc_shrt": "Description",
+      "desc_long": "Test",
+      "version": "1",
+      "rel_type": "Stable",
+      "date_added": "2021-08-21T21:37:26.446Z",
+      "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TESTAPPLICATION/setup.yml",
       "pub": "XMLTest200"
     }
   }
