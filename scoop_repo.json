@@ -9,10 +9,10 @@
   "FeaturedContent": {
     "1": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/1.png",
-      "top": "Test Title 1",
-      "bottom": "Test Caption 1",
-      "bottom2": "Test Caption 1-2",
-      "body": "Test Body 1"
+      "top": "Blaze",
+      "bottom": "The One and Only",
+      "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
+      "body": "Trail Blaze"
     },
     "2": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
