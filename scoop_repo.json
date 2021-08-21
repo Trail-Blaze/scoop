@@ -5,6 +5,33 @@
     "last_updated": "2021-08-16T23:21:43.341Z",
     "total_packages": 2
   },
+
+  "FeaturedContent": {
+    "1": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/1.png",
+      "top": "Test Title",
+      "bottom": "Test Caption",
+      "body": "Test Body"
+    },
+    "2": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/2.png",
+      "top": "Test Title",
+      "bottom": "Test Caption",
+      "body": "Test Body"
+    },
+    "3": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/3.png",
+      "top": "Test Title",
+      "bottom": "Test Caption",
+      "body": "Test Body"
+    },
+    "4": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/4.png",
+      "top": "Test Title",
+      "bottom": "Test Caption",
+      "body": "Test Body"
+    }
+  },
   "PackageList": {
     "package__1": {
       "name": "TestApp",
