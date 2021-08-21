@@ -11,24 +11,28 @@
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/1.png",
       "top": "Test Title 1",
       "bottom": "Test Caption 1",
+      "bottom2": "Test Caption 1-2",
       "body": "Test Body 1"
     },
     "2": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
       "top": "Test Title 2",
       "bottom": "Test Caption 2",
+      "bottom2": "Test Caption 2-2",
       "body": "Test Body 2"
     },
     "3": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
       "top": "Test Title 3",
       "bottom": "Test Caption 3",
+      "bottom2": "Test Caption 3-2",
       "body": "Test Body 3"
     },
     "4": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
       "top": "Test Title 4",
       "bottom": "Test Caption 4",
+      "bottom2": "Test Caption 4-2",
       "body": "Test Body 4"
     }
   },
