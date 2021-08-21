@@ -7,26 +7,33 @@
   },
 
   "FeaturedContent": {
-    "1": {
+    "0": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/1.png",
       "top": "Blaze",
       "bottom": "The One and Only",
       "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
       "body": "Trail Blaze"
     },
-    "2": {
+    "1": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
       "top": "Test Title 2",
       "bottom": "Test Caption 2",
       "bottom2": "Test Caption 2-2",
       "body": "Test Body 2"
     },
-    "3": {
+    "2": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
       "top": "Test Title 3",
       "bottom": "Test Caption 3",
       "bottom2": "Test Caption 3-2",
       "body": "Test Body 3"
+    },
+    "3": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
+      "top": "Test Title 4",
+      "bottom": "Test Caption 4",
+      "bottom2": "Test Caption 4-2",
+      "body": "Test Body 4"
     },
     "4": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
@@ -34,6 +41,48 @@
       "bottom": "Test Caption 4",
       "bottom2": "Test Caption 4-2",
       "body": "Test Body 4"
+    },
+    "5": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/5.png",
+      "top": "Test Title 5",
+      "bottom": "Test Caption 5",
+      "bottom2": "Test Caption 5-2",
+      "body": "Test Body 5"
+    },
+    "6": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/6.png",
+      "top": "Test Title 6",
+      "bottom": "Test Caption 6",
+      "bottom2": "Test Caption 6-2",
+      "body": "Test Body 6"
+    },
+    "7": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/7.png",
+      "top": "Test Title 7",
+      "bottom": "Test Caption 7",
+      "bottom2": "Test Caption 7-2",
+      "body": "Test Body 7"
+    },
+    "8": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/8.png",
+      "top": "Test Title 8",
+      "bottom": "Test Caption 8",
+      "bottom2": "Test Caption 8-2",
+      "body": "Test Body 8"
+    },
+    "9": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/9.png",
+      "top": "Test Title 9",
+      "bottom": "Test Caption 9",
+      "bottom2": "Test Caption 9-2",
+      "body": "Test Body 9"
+    },
+    "10": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/10.png",
+      "top": "Test Title 10",
+      "bottom": "Test Caption 10",
+      "bottom2": "Test Caption 10-2",
+      "body": "Test Body 10"
     }
   },
   "PackageList": {
