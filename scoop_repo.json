@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-16T23:21:43.341Z",
-    "total_packages": 2
+    "last_updated": "2021-08-21T21:30:41.016Z",
+    "total_packages": 4
   },
 
   "FeaturedContent": {
@@ -112,6 +112,26 @@
       "date_added": "2021-08-16T23:21:43.341Z",
       "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/U/USERAPP/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__3": {
+      "name": "fredfred",
+      "desc_shrt": "",
+      "desc_long": "",
+      "version": "1.0.0",
+      "rel_type": "Stable",
+      "date_added": "2021-08-21T21:26:47.656Z",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/f/FREDFRED/setup.yml"
+    },
+    "package__4": {
+      "name": "fredfred",
+      "desc_shrt": "It allows the user to see inside the school",
+      "desc_long": "People can use this to allow them to finally dance in-game but it choice make version oldest of age",
+      "version": "0.0000000000000000000000001",
+      "rel_type": "Unstable",
+      "date_added": "2021-08-21T21:30:41.019Z",
+      "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/f/FREDFRED/setup.yml",
       "pub": "XMLTest200"
     }
   }
