@@ -7,6 +7,11 @@
   },
 
   "FeaturedContent": {
+    "app": {
+      "title": "The Official Backend for Blaze",
+      "desc": "Dynamite Transforms Fortnite Modding to its Limits. Click here to read more how.",
+      "name": "Dynamite"
+    },
     "0": {
       "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/1.png",
       "top": "Blaze",
