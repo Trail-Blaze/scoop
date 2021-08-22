@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-22T22:38:47.672Z",
-    "total_packages": 8
+    "last_updated": "2021-08-22T22:11:45.839Z",
+    "total_packages": 7
   },
   "FeaturedContent": {
     "0": {
@@ -158,23 +158,14 @@
       "pub": "AlexDev404"
     },
     "package__7": {
-      "name": "Blaze_Mod",
-      "desc_shrt": "",
-      "desc_long": "",
+      "name": "Dynamite_Core",
+      "desc_shrt": "The Official Blaze Backend",
+      "desc_long": "With Dynamite Core, you are able to utilize and view all the skins in Fortnite.",
       "version": "1.0",
-      "rel_type": "Stable",
-      "date_added": "2021-08-22T22:37:51.524Z",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/B/BLAZE_MOD/setup.yml"
-    },
-    "package__8": {
-      "name": "Blaze_Mod",
-      "desc_shrt": "A Blaze Plugin",
-      "desc_long": "A Blaze Plugin that gives superhero powers to the backend and *totally* destroys every other backend",
-      "version": "9.0",
-      "rel_type": "Unstable",
-      "date_added": "2021-08-22T22:38:47.672Z",
-      "icon": "https://i.ibb.co/tYhMjxd/0c07ad44a3ae.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/B/BLAZE_MOD/setup.yml",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-22T22:11:45.839Z",
+      "icon": "https://i.ibb.co/0mH1DzB/2d1835ea993e.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/D/DYNAMITE_CORE/setup.yml",
       "pub": "AlexDev404"
     }
   }
