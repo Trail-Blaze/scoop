@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-21T21:55:30.303Z",
-    "total_packages": 6
+    "last_updated": "2021-08-22T22:11:45.839Z",
+    "total_packages": 7
   },
   "FeaturedContent": {
     "0": {
@@ -155,6 +155,17 @@
       "date_added": "2021-08-21T21:55:30.303Z",
       "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/S/SHITAPP/setup.yml",
+      "pub": "AlexDev404"
+    },
+    "package__7": {
+      "name": "Dynamite_Core",
+      "desc_shrt": "The Official Blaze Backend",
+      "desc_long": "With Dynamite Core, you are able to utilize and view all the skins in Fortnite.",
+      "version": "1.0",
+      "rel_type": "Alpha",
+      "date_added": "2021-08-22T22:11:45.839Z",
+      "icon": "https://i.ibb.co/0mH1DzB/2d1835ea993e.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/D/DYNAMITE_CORE/setup.yml",
       "pub": "AlexDev404"
     }
   }
