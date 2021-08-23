@@ -2,8 +2,8 @@
   "repoProps": {
     "name": "Official Blaze Repo",
     "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-22T22:11:45.839Z",
-    "total_packages": 7
+    "last_updated": "2021-08-23T18:44:31.000Z",
+    "total_packages": 10
   },
   "FeaturedContent": {
     "0": {
@@ -167,6 +167,41 @@
       "icon": "https://i.ibb.co/0mH1DzB/2d1835ea993e.png",
       "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/D/DYNAMITE_CORE/setup.yml",
       "pub": "AlexDev404"
+    },
+    "package__8": {
+      "name": "Test567942 SPACE",
+      "desc_shrt": "sdgsdgds",
+      "desc_long": "dsgsdg",
+      "version": "124",
+      "rel_type": "Stable",
+      "cat": "Addons and Plugins",
+      "date_added": "2021-08-23T18:38:57.827Z",
+      "icon": "https://i.ibb.co/tYhMjxd/0c07ad44a3ae.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST567942 SPACE/setup.yml"
+    },
+    "package__9": {
+      "name": "Test10039499 SPACE",
+      "desc_shrt": "sfdsfghsgsg",
+      "desc_long": "sdgsgd",
+      "version": "1",
+      "rel_type": "Alpha",
+      "cat": "Addons and Plugins",
+      "date_added": "2021-08-23T18:42:31.649Z",
+      "icon": "https://i.ibb.co/tYhMjxd/0c07ad44a3ae.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST10039499 SPACE/setup.yml",
+      "pub": "XMLTest200"
+    },
+    "package__10": {
+      "name": "Test236346346 SPACE",
+      "desc_shrt": "sfhgfsdhgf",
+      "desc_long": "dsgsdg",
+      "version": "2",
+      "rel_type": "Alpha",
+      "cat": "Addons and Plugins",
+      "date_added": "2021-08-23T18:44:31.000Z",
+      "icon": "https://i.ibb.co/tYhMjxd/0c07ad44a3ae.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST236346346 SPACE/setup.yml",
+      "pub": "XMLTest200"
     }
   }
 }
