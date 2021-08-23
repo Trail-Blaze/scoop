@@ -1,172 +1,185 @@
 {
-  "repoProps": {
-    "name": "Official Blaze Repo",
-    "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2021-08-22T22:11:45.839Z",
-    "total_packages": 7
-  },
-  "FeaturedContent": {
-    "0": {
-      "img": "https://trail-blaze.github.io/res/Blaze/Dynamite-Full-Full.png",
-      "top": "Blaze",
-      "bottom": "The One and Only",
-      "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
-      "body": "Trail Blaze"
+    "repoProps": {
+        "name": "Official Blaze Repo",
+        "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
+        "last_updated": "2021-08-23T19:05:15.456Z",
+        "total_packages": 8
+        },
+    "FeaturedContent": {
+      "0": {
+        "img": "https://trail-blaze.github.io/res/Blaze/Dynamite-Full-Full.png",
+        "top": "Blaze",
+        "bottom": "The One and Only",
+        "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
+        "body": "Trail Blaze"
+      },
+      "1": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
+        "top": "Test Title 2",
+        "bottom": "Test Caption 2",
+        "bottom2": "Test Caption 2-2",
+        "body": "Test Body 2"
+      },
+      "2": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
+        "top": "Test Title 3",
+        "bottom": "Test Caption 3",
+        "bottom2": "Test Caption 3-2",
+        "body": "Test Body 3"
+      },
+      "3": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
+        "top": "Test Title 4",
+        "bottom": "Test Caption 4",
+        "bottom2": "Test Caption 4-2",
+        "body": "Test Body 4"
+      },
+      "4": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
+        "top": "Test Title 4",
+        "bottom": "Test Caption 4",
+        "bottom2": "Test Caption 4-2",
+        "body": "Test Body 4"
+      },
+      "5": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/5.png",
+        "top": "Test Title 5",
+        "bottom": "Test Caption 5",
+        "bottom2": "Test Caption 5-2",
+        "body": "Test Body 5"
+      },
+      "6": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/6.png",
+        "top": "Test Title 6",
+        "bottom": "Test Caption 6",
+        "bottom2": "Test Caption 6-2",
+        "body": "Test Body 6"
+      },
+      "7": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/7.png",
+        "top": "Test Title 7",
+        "bottom": "Test Caption 7",
+        "bottom2": "Test Caption 7-2",
+        "body": "Test Body 7"
+      },
+      "8": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/8.png",
+        "top": "Test Title 8",
+        "bottom": "Test Caption 8",
+        "bottom2": "Test Caption 8-2",
+        "body": "Test Body 8"
+      },
+      "9": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/9.png",
+        "top": "Test Title 9",
+        "bottom": "Test Caption 9",
+        "bottom2": "Test Caption 9-2",
+        "body": "Test Body 9"
+      },
+      "10": {
+        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/10.png",
+        "top": "Test Title 10",
+        "bottom": "Test Caption 10",
+        "bottom2": "Test Caption 10-2",
+        "body": "Test Body 10"
+      },
+      "app": {
+        "title": "The Official Backend for Blaze",
+        "icon": "https://trail-blaze.github.io/res/Blaze/tbico (512 x 512).png",
+        "desc": "Dynamite Transforms Fortnite Modding to its Limits. Click here to read more how.",
+        "name": "Dynamite"
+      }
     },
-    "1": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
-      "top": "Test Title 2",
-      "bottom": "Test Caption 2",
-      "bottom2": "Test Caption 2-2",
-      "body": "Test Body 2"
-    },
-    "2": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
-      "top": "Test Title 3",
-      "bottom": "Test Caption 3",
-      "bottom2": "Test Caption 3-2",
-      "body": "Test Body 3"
-    },
-    "3": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
-      "top": "Test Title 4",
-      "bottom": "Test Caption 4",
-      "bottom2": "Test Caption 4-2",
-      "body": "Test Body 4"
-    },
-    "4": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
-      "top": "Test Title 4",
-      "bottom": "Test Caption 4",
-      "bottom2": "Test Caption 4-2",
-      "body": "Test Body 4"
-    },
-    "5": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/5.png",
-      "top": "Test Title 5",
-      "bottom": "Test Caption 5",
-      "bottom2": "Test Caption 5-2",
-      "body": "Test Body 5"
-    },
-    "6": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/6.png",
-      "top": "Test Title 6",
-      "bottom": "Test Caption 6",
-      "bottom2": "Test Caption 6-2",
-      "body": "Test Body 6"
-    },
-    "7": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/7.png",
-      "top": "Test Title 7",
-      "bottom": "Test Caption 7",
-      "bottom2": "Test Caption 7-2",
-      "body": "Test Body 7"
-    },
-    "8": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/8.png",
-      "top": "Test Title 8",
-      "bottom": "Test Caption 8",
-      "bottom2": "Test Caption 8-2",
-      "body": "Test Body 8"
-    },
-    "9": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/9.png",
-      "top": "Test Title 9",
-      "bottom": "Test Caption 9",
-      "bottom2": "Test Caption 9-2",
-      "body": "Test Body 9"
-    },
-    "10": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/10.png",
-      "top": "Test Title 10",
-      "bottom": "Test Caption 10",
-      "bottom2": "Test Caption 10-2",
-      "body": "Test Body 10"
-    },
-    "app": {
-      "title": "The Official Backend for Blaze",
-      "icon": "https://trail-blaze.github.io/res/Blaze/tbico (512 x 512).png",
-      "desc": "Dynamite Transforms Fortnite Modding to its Limits. Click here to read more how.",
-      "name": "Dynamite"
-    }
-  },
-  "PackageList": {
-    "package__1": {
-      "name": "TestApp",
-      "desc_shrt": "Test",
-      "desc_long": "Test",
-      "dl_setupLoc": "https://x.com/setup.yml",
-      "version": "1.0",
-      "rel_type": "Stable",
-      "date_added": "2021-08-16T21:11:52.569Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "pub": "AlexDev404"
-    },
-    "package__2": {
-      "name": "UserApp",
-      "desc_shrt": "User App",
-      "desc_long": "Test",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-16T23:21:43.341Z",
-      "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/U/USERAPP/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__3": {
-      "name": "fredfred",
-      "desc_shrt": "It allows the user to see inside the school",
-      "desc_long": "People can use this to allow them to finally dance in-game but it choice make version oldest of age",
-      "version": "0.0000000000000000000000001",
-      "rel_type": "Unstable",
-      "date_added": "2021-08-21T21:30:41.019Z",
-      "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/f/FREDFRED/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__4": {
-      "name": "A Very Cool App",
-      "desc_shrt": "A Really nice app",
-      "desc_long": "Pigs can fly",
-      "version": "1",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-21T21:36:16.430Z",
-      "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/A/A VERY COOL APP/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__5": {
-      "name": "TestApplication",
-      "desc_shrt": "Description",
-      "desc_long": "Test",
-      "version": "1",
-      "rel_type": "Stable",
-      "date_added": "2021-08-21T21:37:26.446Z",
-      "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TESTAPPLICATION/setup.yml",
-      "pub": "XMLTest200"
-    },
-    "package__6": {
-      "name": "NEWAPP",
-      "desc_shrt": "Test",
-      "desc_long": "Test",
-      "version": "1",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-21T21:55:30.303Z",
-      "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/S/SHITAPP/setup.yml",
-      "pub": "AlexDev404"
-    },
-    "package__7": {
-      "name": "Dynamite_Core",
-      "desc_shrt": "The Official Blaze Backend",
-      "desc_long": "With Dynamite Core, you are able to utilize and view all the skins in Fortnite.",
-      "version": "1.0",
-      "rel_type": "Alpha",
-      "date_added": "2021-08-22T22:11:45.839Z",
-      "icon": "https://i.ibb.co/0mH1DzB/2d1835ea993e.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/D/DYNAMITE_CORE/setup.yml",
-      "pub": "AlexDev404"
+    "PackageList": {
+      "package__1": {
+        "name": "TestApp",
+        "desc_shrt": "Test",
+        "desc_long": "Test",
+        "dl_setupLoc": "https://x.com/setup.yml",
+        "version": "1.0",
+        "rel_type": "Stable",
+        "date_added": "2021-08-16T21:11:52.569Z",
+        "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
+        "pub": "AlexDev404"
+      },
+      "package__2": {
+        "name": "UserApp",
+        "desc_shrt": "User App",
+        "desc_long": "Test",
+        "version": "1.0",
+        "rel_type": "Alpha",
+        "date_added": "2021-08-16T23:21:43.341Z",
+        "icon": "https://i.ibb.co/wQtfRyr/9591bd2fb67c.png",
+        "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/U/USERAPP/setup.yml",
+        "pub": "XMLTest200"
+      },
+      "package__3": {
+        "name": "fredfred",
+        "desc_shrt": "It allows the user to see inside the school",
+        "desc_long": "People can use this to allow them to finally dance in-game but it choice make version oldest of age",
+        "version": "0.0000000000000000000000001",
+        "rel_type": "Unstable",
+        "date_added": "2021-08-21T21:30:41.019Z",
+        "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
+        "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/f/FREDFRED/setup.yml",
+        "pub": "XMLTest200"
+      },
+      "package__4": {
+        "name": "A Very Cool App",
+        "desc_shrt": "A Really nice app",
+        "desc_long": "Pigs can fly",
+        "version": "1",
+        "rel_type": "Alpha",
+        "date_added": "2021-08-21T21:36:16.430Z",
+        "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
+        "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/A/A VERY COOL APP/setup.yml",
+        "pub": "XMLTest200"
+      },
+      "package__5": {
+        "name": "TestApplication",
+        "desc_shrt": "Description",
+        "desc_long": "Test",
+        "version": "1",
+        "rel_type": "Stable",
+        "date_added": "2021-08-21T21:37:26.446Z",
+        "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
+        "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TESTAPPLICATION/setup.yml",
+        "pub": "XMLTest200"
+      },
+      "package__6": {
+        "name": "NEWAPP",
+        "desc_shrt": "Test",
+        "desc_long": "Test",
+        "version": "1",
+        "rel_type": "Alpha",
+        "date_added": "2021-08-21T21:55:30.303Z",
+        "icon": "https://i.ibb.co/T4j9wwk/f1f0ae2a4825.jpg",
+        "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/S/SHITAPP/setup.yml",
+        "pub": "AlexDev404"
+      },
+      "package__7": {
+        "name": "Dynamite_Core",
+        "desc_shrt": "The Official Blaze Backend",
+        "desc_long": "With Dynamite Core, you are able to utilize and view all the skins in Fortnite.",
+        "version": "1.0",
+        "rel_type": "Alpha",
+        "date_added": "2021-08-22T22:11:45.839Z",
+        "icon": "https://i.ibb.co/0mH1DzB/2d1835ea993e.png",
+        "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/D/DYNAMITE_CORE/setup.yml",
+        "pub": "AlexDev404"
+      },
+      "package__8": {
+        "name": "Test Application",
+        "desc_shrt": "Test",
+        "desc_long": "Test",
+        "version": "1",
+        "rel_type": "Stable",
+        "cat": "Backend",
+        "date_added": "2021-08-23T19:05:15.456Z",
+        "icon": "https://i.ibb.co/tYhMjxd/0c07ad44a3ae.png",
+        "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/T/TEST APPLICATION/setup.yml",
+        "pub": "XMLTest200"
+      }
     }
   }
-}
+  
