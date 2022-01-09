@@ -1,89 +1,102 @@
 {
-    "repoProps": {
-        "name": "Official Blaze Repo",
-        "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-        "last_updated": "2021-08-23T19:05:15.456Z",
-        "total_packages": 0
-        },
-    "FeaturedContent": {
-      "0": {
-        "img": "https://trail-blaze.github.io/res/Blaze/Dynamite-Full-Full.png",
-        "top": "Blaze",
-        "bottom": "The One and Only",
-        "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
-        "body": "Trail Blaze"
-      },
-      "1": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
-        "top": "Test Title 2",
-        "bottom": "Test Caption 2",
-        "bottom2": "Test Caption 2-2",
-        "body": "Test Body 2"
-      },
-      "2": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
-        "top": "Test Title 3",
-        "bottom": "Test Caption 3",
-        "bottom2": "Test Caption 3-2",
-        "body": "Test Body 3"
-      },
-      "3": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
-        "top": "Test Title 4",
-        "bottom": "Test Caption 4",
-        "bottom2": "Test Caption 4-2",
-        "body": "Test Body 4"
-      },
-      "4": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
-        "top": "Test Title 4",
-        "bottom": "Test Caption 4",
-        "bottom2": "Test Caption 4-2",
-        "body": "Test Body 4"
-      },
-      "5": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/5.png",
-        "top": "Test Title 5",
-        "bottom": "Test Caption 5",
-        "bottom2": "Test Caption 5-2",
-        "body": "Test Body 5"
-      },
-      "6": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/6.png",
-        "top": "Test Title 6",
-        "bottom": "Test Caption 6",
-        "bottom2": "Test Caption 6-2",
-        "body": "Test Body 6"
-      },
-      "7": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/7.png",
-        "top": "Test Title 7",
-        "bottom": "Test Caption 7",
-        "bottom2": "Test Caption 7-2",
-        "body": "Test Body 7"
-      },
-      "8": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/8.png",
-        "top": "Test Title 8",
-        "bottom": "Test Caption 8",
-        "bottom2": "Test Caption 8-2",
-        "body": "Test Body 8"
-      },
-      "9": {
-        "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/9.png",
-        "top": "Test Title 9",
-        "bottom": "Test Caption 9",
-        "bottom2": "Test Caption 9-2",
-        "body": "Test Body 9"
-      },
-      "app": {
-        "title": "The Official Backend for Blaze",
-        "icon": "https://trail-blaze.github.io/res/Blaze/tbico (512 x 512).png",
-        "desc": "Dynamite Pushes Fortnite Modding to its Limits. Click here to read more how.",
-        "name": "Dynamite"
-      }
+  "repoProps": {
+    "name": "Official Blaze Repo",
+    "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
+    "last_updated": "2022-01-09T23:09:12.480Z",
+    "total_packages": 1
+  },
+  "FeaturedContent": {
+    "0": {
+      "img": "https://trail-blaze.github.io/res/Blaze/Dynamite-Full-Full.png",
+      "top": "Blaze",
+      "bottom": "The One and Only",
+      "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
+      "body": "Trail Blaze"
     },
-    "PackageList": {
+    "1": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
+      "top": "Test Title 2",
+      "bottom": "Test Caption 2",
+      "bottom2": "Test Caption 2-2",
+      "body": "Test Body 2"
+    },
+    "2": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
+      "top": "Test Title 3",
+      "bottom": "Test Caption 3",
+      "bottom2": "Test Caption 3-2",
+      "body": "Test Body 3"
+    },
+    "3": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
+      "top": "Test Title 4",
+      "bottom": "Test Caption 4",
+      "bottom2": "Test Caption 4-2",
+      "body": "Test Body 4"
+    },
+    "4": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
+      "top": "Test Title 4",
+      "bottom": "Test Caption 4",
+      "bottom2": "Test Caption 4-2",
+      "body": "Test Body 4"
+    },
+    "5": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/5.png",
+      "top": "Test Title 5",
+      "bottom": "Test Caption 5",
+      "bottom2": "Test Caption 5-2",
+      "body": "Test Body 5"
+    },
+    "6": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/6.png",
+      "top": "Test Title 6",
+      "bottom": "Test Caption 6",
+      "bottom2": "Test Caption 6-2",
+      "body": "Test Body 6"
+    },
+    "7": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/7.png",
+      "top": "Test Title 7",
+      "bottom": "Test Caption 7",
+      "bottom2": "Test Caption 7-2",
+      "body": "Test Body 7"
+    },
+    "8": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/8.png",
+      "top": "Test Title 8",
+      "bottom": "Test Caption 8",
+      "bottom2": "Test Caption 8-2",
+      "body": "Test Body 8"
+    },
+    "9": {
+      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/9.png",
+      "top": "Test Title 9",
+      "bottom": "Test Caption 9",
+      "bottom2": "Test Caption 9-2",
+      "body": "Test Body 9"
+    },
+    "app": {
+      "title": "The Official Backend for Blaze",
+      "icon": "https://trail-blaze.github.io/res/Blaze/tbico (512 x 512).png",
+      "desc": "Dynamite Pushes Fortnite Modding to its Limits. Click here to read more how.",
+      "name": "Dynamite"
+    }
+  },
+  "PackageList": {
+    "package__1": {
+      "name": "Neonite",
+      "desc_shrt": "Neonite V2 - An open-source Fortnite lobby emulator, written in JavaScript.",
+      "desc_long": "Neonite V2 is a popular private server written in Node.js, aimed to provide a fun yet easy-to-use program for people wanting to customize their Fortnite experience. This project was made for fun and it doesn't aim to harm the original game by any means, If you are an Epic Games employee and have any problems with this project, please do not hesitate to contact us through your official business email.\nIn acquiescence to Epic Games Inc. - Please note that access to all cosmetics for Neonite V2 has been stripped. If you want to use skins, please purchase them on Fortnite.",
+      "version": "2.73",
+      "rel_type": "Stable",
+      "date_added": "2022-01-09T23:09:12.480Z",
+      "icon": "https://i.ibb.co/CmXkPf2/e606a8737979.png",
+      "mediaTwo": "https://i.ibb.co/ZJBCKWp/5d7f8fc96920.png",
+      "mediaThree": "https://i.ibb.co/tJ64jBK/770e45234373.png",
+      "mediaOne": "https://i.ibb.co/ZJBCKWp/5d7f8fc96920.png",
+      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/N/NEONITE/setup.yml",
+      "pub": "AlexDev404"
     }
   }
-  
+}
