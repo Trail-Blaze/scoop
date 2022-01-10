@@ -1,116 +1,116 @@
 {
-  "repoProps": {
-    "name": "Official Blaze Repo",
-    "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
-    "last_updated": "2022-01-10T18:48:09.416Z",
-    "total_packages": 2
-  },
-  "FeaturedContent": {
-    "0": {
-      "img": "https://trail-blaze.github.io/res/Blaze/Dynamite-Full-Full.png",
-      "top": "Blaze",
-      "bottom": "The One and Only",
-      "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
-      "body": "Trail Blaze"
-    },
-    "1": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
-      "top": "Test Title 2",
-      "bottom": "Test Caption 2",
-      "bottom2": "Test Caption 2-2",
-      "body": "Test Body 2"
-    },
-    "2": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
-      "top": "Test Title 3",
-      "bottom": "Test Caption 3",
-      "bottom2": "Test Caption 3-2",
-      "body": "Test Body 3"
-    },
-    "3": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
-      "top": "Test Title 4",
-      "bottom": "Test Caption 4",
-      "bottom2": "Test Caption 4-2",
-      "body": "Test Body 4"
-    },
-    "4": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
-      "top": "Test Title 4",
-      "bottom": "Test Caption 4",
-      "bottom2": "Test Caption 4-2",
-      "body": "Test Body 4"
-    },
-    "5": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/5.png",
-      "top": "Test Title 5",
-      "bottom": "Test Caption 5",
-      "bottom2": "Test Caption 5-2",
-      "body": "Test Body 5"
-    },
-    "6": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/6.png",
-      "top": "Test Title 6",
-      "bottom": "Test Caption 6",
-      "bottom2": "Test Caption 6-2",
-      "body": "Test Body 6"
-    },
-    "7": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/7.png",
-      "top": "Test Title 7",
-      "bottom": "Test Caption 7",
-      "bottom2": "Test Caption 7-2",
-      "body": "Test Body 7"
-    },
-    "8": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/8.png",
-      "top": "Test Title 8",
-      "bottom": "Test Caption 8",
-      "bottom2": "Test Caption 8-2",
-      "body": "Test Body 8"
-    },
-    "9": {
-      "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/9.png",
-      "top": "Test Title 9",
-      "bottom": "Test Caption 9",
-      "bottom2": "Test Caption 9-2",
-      "body": "Test Body 9"
-    },
-    "app": {
-      "title": "The Official Backend for Blaze",
-      "icon": "https://trail-blaze.github.io/res/Blaze/tbico (512 x 512).png",
-      "desc": "Dynamite Pushes Fortnite Modding to its Limits. Click here to read more how.",
-      "name": "Dynamite"
-    }
-  },
-  "PackageList": {
-    "package__1": {
-      "name": "Neonite",
-      "desc_shrt": "Neonite V2 - An open-source Fortnite lobby emulator, written in JavaScript.",
-      "desc_long": "<p align=\"center\">\n\t<img align=\"center\" src=\"https://cdn.discordapp.com/attachments/838613584970776608/839187334515130408/neonitev2.png\" alt=\"Logo\" width=\"216\" height=\"127\">\n</p>\n<p align=\"center\">\n    <img alt=\"Release\" class=\"pb-4\" src=\"https://img.shields.io/github/v/release/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge\">\n    <img alt=\"Stars\" src=\"https://img.shields.io/github/stars/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge\">\n</p>\n\n<!-- ABOUT NEONITEV2 -->\n## About Neonite V2\n\nNeonite V2 is a popular private server written in Node.js, aimed to provide a fun yet easy-to-use program for people wanting to customize their Fortnite experience.\nThis project was made for fun and it doesn't aim to harm the original game by any means, If you are an Epic Games employee and have any problems with this project, please do not hesitate to contact us through your official business email. <br>\nIn acquiescence to Epic Games Inc. - Please note that access to all cosmetics for Neonite V2 has been stripped. If you want to use skins, please purchase them on Fortnite.\n\n<!-- INSTALL -->\n# Installation\n\n- Install it from here\n - Click launch, and enjoy!\n\n<!-- FAQs -->\n# FAQs\n\n * How do I access Neonite V2?\n   * You can access Neonite V2's dashboard at http://localhost:5595/.\n * Can I go in-game?\n   * No, however, Neonite++ is available to use for in-game support, Check it out [here](https://github.com/NeoniteDev/NeonitePP).\n * Will I get banned?\n   * No, you won't get banned because Neonite V2 doesn't connect to any Epic Games related services.\n * How do I play with my friends?\n   * Neonite V2 is a locally-hosted project, meaning it has no party or friends functionality.\n * Why don't I see any cosmetics in my locker?\n   * We removed cosmetics because Epic Games made it clear it does not like services that offer cosmetics for free. If you wish for skins you're welcome to add them yourself.\n\n# Contact\n\nEmail: contact@neonite.dev\n\nDiscord Server: https://discord.gg/vM8p3mpWBS\n\n\n# Credits\n\n# Used APIs\n<img src=\"https://fortnite-api.com/assets/img/logo.png\" width=\"15\" title=\"Fortnite-API\"> [Fortnite-API](https://fortnite-api.com/) developed by [Officer](https://github.com/NotOfficer) <br>\n<img src=\"https://api.nitestats.com/v1/static/ns-logo.png\" width=\"15\" title=\"NiteStats-API\"> [NiteStats API](https://nitestats.com/) developed by [VastBlast](https://github.com/VastBlast)\n\n# Contributors\n\n\n[Kemo](https://github.com/kem0o)          - Original creator and maintainer \n[Beat-YT](https://github.com/Beat-YT)     - Current maintainer \n[Amrsatrio](https://github.com/Amrsatrio) - Write-up of profile.js and API-reversing \n[Kyiro](https://github.com/Kyiro)         - Pull requests \n[iDrDoge](https://github.com/iDrDoge)     - Pull requests \n[Tim](https://github.com/timjans01)       - Improving this awesome page \n[Ayal](https://github.com/AyalX)          - Management \n[Jacobb](https://github.com/Jacobb626)    - Pull requests \n\n\n# License\n\nThis project is licensed under the [Neo License](https://github.com/NeoniteDev/NeoniteV2/blob/main/LICENSE)",
-      "version": "2.73",
-      "rel_type": "Stable",
-      "date_added": "2022-01-09T23:09:12.480Z",
-      "icon": "https://i.ibb.co/CmXkPf2/e606a8737979.png",
-      "mediaTwo": "https://i.ibb.co/4TcKH6R/f0d3c7f868d5780b4119a4f116c236cc.jpg",
-      "mediaThree": "https://i.ibb.co/7Y9tqZ2/Neonite-Wallpaper1920x1080.png",
-      "mediaOne": "https://i.ibb.co/ZJBCKWp/5d7f8fc96920.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/N/NEONITE/setup.yml",
-      "pub": "AlexDev404"
-    },
-    "package__2": {
-      "name": "Dynamite Core",
-      "desc_shrt": "Dynamite Core - The free open-source Fortnite private server",
-      "desc_long": "# Disclaimer\n\n### **ABSTRACT:** This software is for educational purposes only. This software should not be used for illegal activity. The author(s) is not responsible for its use.\n\nThis repository is for research purposes only, the use of this code is your responsibility and **AT YOUR OWN RISK**.\n\nWe take **NO** responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.\n\nWe take **NO** responsibility for the abuse of Epic Games' Services, this backend, or how you voluntarily choose to use **ANY** information given in the related scripts and documentation.\n\n## **WE DO NOT GRANT PERMISSIONS TO USE DYNAMITE TO BREAK THE LAW!**\n\nAs Dynamite is in open-beta stage, it is likely that bugs occur. I disclaim any warranty for Dynamite it is provided \"AS IS\".\n",
-      "version": "1.43",
-      "rel_type": "Beta",
-      "date_added": "2022-01-10T18:48:09.416Z",
-      "icon": "https://i.ibb.co/b3Kzyq4/555f28ae7ff6.png",
-      "mediaThree": "https://i.ibb.co/rM1vG8P/bc6f7daf23af.png",
-      "mediaOne": "https://i.ibb.co/bWtJ1fN/836eb9843ed7.png",
-      "mediaTwo": "https://i.ibb.co/hd2LfFf/56f72323e6ec.png",
-      "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/D/DYNAMITE CORE/setup.yml",
-      "pub": "AlexDev404"
-    }
-  }
+   "repoProps": {
+      "name": "Official Blaze Repo",
+      "date_created": "Mon Aug 09 2021 14:25:21 GMT-0600 (GMT-06:00)",
+      "last_updated": "2022-01-10T18:48:09.416Z",
+      "total_packages": 2
+   },
+   "FeaturedContent": {
+      "0": {
+         "img": "https://trail-blaze.github.io/res/Blaze/Dynamite-Full-Full.png",
+         "top": "Blaze",
+         "bottom": "The One and Only",
+         "bottom2": "The original one-and-only private server and modding platform for Fortnite!",
+         "body": "Trail Blaze"
+      },
+      "1": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/2.png",
+         "top": "Test Title 2",
+         "bottom": "Test Caption 2",
+         "bottom2": "Test Caption 2-2",
+         "body": "Test Body 2"
+      },
+      "2": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/3.png",
+         "top": "Test Title 3",
+         "bottom": "Test Caption 3",
+         "bottom2": "Test Caption 3-2",
+         "body": "Test Body 3"
+      },
+      "3": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
+         "top": "Test Title 4",
+         "bottom": "Test Caption 4",
+         "bottom2": "Test Caption 4-2",
+         "body": "Test Body 4"
+      },
+      "4": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/4.png",
+         "top": "Test Title 4",
+         "bottom": "Test Caption 4",
+         "bottom2": "Test Caption 4-2",
+         "body": "Test Body 4"
+      },
+      "5": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/5.png",
+         "top": "Test Title 5",
+         "bottom": "Test Caption 5",
+         "bottom2": "Test Caption 5-2",
+         "body": "Test Body 5"
+      },
+      "6": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/6.png",
+         "top": "Test Title 6",
+         "bottom": "Test Caption 6",
+         "bottom2": "Test Caption 6-2",
+         "body": "Test Body 6"
+      },
+      "7": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/7.png",
+         "top": "Test Title 7",
+         "bottom": "Test Caption 7",
+         "bottom2": "Test Caption 7-2",
+         "body": "Test Body 7"
+      },
+      "8": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/8.png",
+         "top": "Test Title 8",
+         "bottom": "Test Caption 8",
+         "bottom2": "Test Caption 8-2",
+         "body": "Test Body 8"
+      },
+      "9": {
+         "img": "https://trail-blaze.github.io/marketplace/featuredContent/png/9.png",
+         "top": "Test Title 9",
+         "bottom": "Test Caption 9",
+         "bottom2": "Test Caption 9-2",
+         "body": "Test Body 9"
+      },
+      "app": {
+         "title": "The Official Backend for Blaze",
+         "icon": "https://trail-blaze.github.io/res/Blaze/tbico (512 x 512).png",
+         "desc": "Dynamite Pushes Fortnite Modding to its Limits. Click here to read more how.",
+         "name": "Dynamite"
+      }
+   },
+   "PackageList": {
+      "package__1": {
+         "name": "Neonite",
+         "desc_shrt": "Neonite V2 - An open-source Fortnite lobby emulator, written in JavaScript.",
+         "desc_long": "<p align=\"center\">\n\t<img align=\"center\" src=\"https://cdn.discordapp.com/attachments/838613584970776608/839187334515130408/neonitev2.png\" alt=\"Logo\" width=\"216\" height=\"127\">\n</p>\n<p align=\"center\">\n    <img alt=\"Release\" class=\"pb-4\" src=\"https://img.shields.io/github/v/release/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge\">\n    <img alt=\"Stars\" src=\"https://img.shields.io/github/stars/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge\">\n</p>\n\n<!-- ABOUT NEONITEV2 -->\n## About Neonite V2\n\nNeonite V2 is a popular private server written in Node.js, aimed to provide a fun yet easy-to-use program for people wanting to customize their Fortnite experience.\nThis project was made for fun and it doesn't aim to harm the original game by any means, If you are an Epic Games employee and have any problems with this project, please do not hesitate to contact us through your official business email. <br>\nIn acquiescence to Epic Games Inc. - Please note that access to all cosmetics for Neonite V2 has been stripped. If you want to use skins, please purchase them on Fortnite.\n\n<!-- INSTALL -->\n# Installation\n\n- Install it from here\n - Click launch, and enjoy!\n\n<!-- FAQs -->\n# FAQs\n\n * How do I access Neonite V2?\n   * You can access Neonite V2's dashboard at http://localhost:5595/.\n * Can I go in-game?\n   * No, however, Neonite++ is available to use for in-game support, Check it out [here](https://github.com/NeoniteDev/NeonitePP).\n * Will I get banned?\n   * No, you won't get banned because Neonite V2 doesn't connect to any Epic Games related services.\n * How do I play with my friends?\n   * Neonite V2 is a locally-hosted project, meaning it has no party or friends functionality.\n * Why don't I see any cosmetics in my locker?\n   * We removed cosmetics because Epic Games made it clear it does not like services that offer cosmetics for free. If you wish for skins you're welcome to add them yourself.\n\n# Contact\n\nEmail: contact@neonite.dev\n\nDiscord Server: https://discord.gg/vM8p3mpWBS\n\n\n# Credits\n\n# Used APIs\n<img src=\"https://fortnite-api.com/assets/img/logo.png\" width=\"15\" title=\"Fortnite-API\"> [Fortnite-API](https://fortnite-api.com/) developed by [Officer](https://github.com/NotOfficer) <br>\n<img src=\"https://api.nitestats.com/v1/static/ns-logo.png\" width=\"15\" title=\"NiteStats-API\"> [NiteStats API](https://nitestats.com/) developed by [VastBlast](https://github.com/VastBlast)\n\n# Contributors\n\n\n[Kemo](https://github.com/kem0o)          - Original creator and maintainer \n[Beat-YT](https://github.com/Beat-YT)     - Current maintainer \n[Amrsatrio](https://github.com/Amrsatrio) - Write-up of profile.js and API-reversing \n[Kyiro](https://github.com/Kyiro)         - Pull requests \n[iDrDoge](https://github.com/iDrDoge)     - Pull requests \n[Tim](https://github.com/timjans01)       - Improving this awesome page \n[Ayal](https://github.com/AyalX)          - Management \n[Jacobb](https://github.com/Jacobb626)    - Pull requests \n\n\n# License\n\nThis project is licensed under the [Neo License](https://github.com/NeoniteDev/NeoniteV2/blob/main/LICENSE)",
+         "version": "2.73",
+         "rel_type": "Stable",
+         "date_added": "2022-01-09T23:09:12.480Z",
+         "icon": "https://i.ibb.co/CmXkPf2/e606a8737979.png",
+         "mediaTwo": "https://i.ibb.co/4TcKH6R/f0d3c7f868d5780b4119a4f116c236cc.jpg",
+         "mediaThree": "https://i.ibb.co/7Y9tqZ2/Neonite-Wallpaper1920x1080.png",
+         "mediaOne": "https://i.ibb.co/ZJBCKWp/5d7f8fc96920.png",
+         "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/N/NEONITE/setup.yml",
+         "pub": "AlexDev404"
+      },
+      "package__2": {
+         "name": "Dynamite Core",
+         "desc_shrt": "Dynamite Core - The free open-source Fortnite private server",
+         "desc_long": "# Disclaimer\n\n### **ABSTRACT:** This software is for educational purposes only. This software should not be used for illegal activity. The author(s) is not responsible for its use.\n\nThis repository is for research purposes only, the use of this code is your responsibility and **AT YOUR OWN RISK**.\n\nWe take **NO** responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.\n\nWe take **NO** responsibility for the abuse of Epic Games' Services, this backend, or how you voluntarily choose to use **ANY** information given in the related scripts and documentation.\n\n## **WE DO NOT GRANT PERMISSIONS TO USE DYNAMITE TO BREAK THE LAW!**\n\nAs Dynamite is in open-beta stage, it is likely that bugs occur. I disclaim any warranty for Dynamite it is provided \"AS IS\".\n",
+         "version": "1.43",
+         "rel_type": "Beta",
+         "date_added": "2022-01-10T18:48:09.416Z",
+         "icon": "https://i.ibb.co/b3Kzyq4/555f28ae7ff6.png",
+         "mediaThree": "https://i.ibb.co/rM1vG8P/bc6f7daf23af.png",
+         "mediaOne": "https://i.ibb.co/bWtJ1fN/836eb9843ed7.png",
+         "mediaTwo": "https://i.ibb.co/hd2LfFf/56f72323e6ec.png",
+         "dl_setupLoc": "https://trail-blaze.github.io/scoop/packages/D/DYNAMITE CORE/setup.yml",
+         "pub": "AlexDev404"
+      }
+   }
 }
