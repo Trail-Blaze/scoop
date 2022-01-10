@@ -1,0 +1,6 @@
+package_name: "Dynamite Core"
+package_version: "1x"
+description: "Dynamite Core - The free open-source Fortnite private server"
+package_location: "https://github.com/Trail-Blaze/dynamite-core/archive/refs/heads/main.zip"
+publisher_website: "https://trail-blaze.github.io/"
+type: "backend/bundle"
