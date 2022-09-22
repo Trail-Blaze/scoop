@@ -21,7 +21,21 @@
          "body": "Test Body 3"
       },
       "2": {
-         "img": "https://trail-blaze.github.io/catalog/featuredContent/png/2.png",
+         "img": "https://github.com/Trail-Blaze/Otto/raw/dev/src/assets/png/update_required.png",
+         "top": "NOTICE: DEPRECATION NOTICE",
+         "bottom": "We are Revamping Blaze.",
+         "bottom2": "We are in the process of doing this, so some features may not work as expected. Hand in tight while we work on this.",
+         "body": "Test Body 2"
+      },
+      "3": {
+         "img": "https://github.com/Trail-Blaze/Otto/raw/dev/src/assets/png/update_required.png",
+         "top": "NOTICE: DEPRECATION NOTICE",
+         "bottom": "We are Revamping Blaze.",
+         "bottom2": "We are in the process of doing this, so some features may not work as expected. Hand in tight while we work on this.",
+         "body": "Test Body 2"
+      },
+      "4": {
+         "img": "https://github.com/Trail-Blaze/Otto/raw/dev/src/assets/png/update_required.png",
          "top": "NOTICE: DEPRECATION NOTICE",
          "bottom": "We are Revamping Blaze.",
          "bottom2": "We are in the process of doing this, so some features may not work as expected. Hand in tight while we work on this.",
